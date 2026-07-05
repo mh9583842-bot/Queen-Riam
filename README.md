@@ -81,7 +81,7 @@ Deploy QUEEN AYESHA with one click on any supported platform:
 
 ```bash
 git clone https://github.com/Dev-Kango/Queen-Riam.git
-cd Queen-Riam
+cd Queen-Ayesha
 npm install
 npm start
 ```
