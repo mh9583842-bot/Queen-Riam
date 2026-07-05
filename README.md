@@ -1,7 +1,7 @@
-<h1 align="center">👑 QUEEN RIAM </h1>
+<h1 align="center">👑 QUEEN AYESHA </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/6H0FXSa.jpeg" alt="Queen Riam" width="300" style="border-radius: 12px;" />
+  <img src="https://i.imgur.com/6H0FXSa.jpeg" alt="Queen Ayesha" width="300" style="border-radius: 12px;" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## About
 
-**QUEEN RIAM** is a modern WhatsApp multi-device bot built with **Node.js**, **Baileys**, and **Express**. Designed for simplicity, extensibility, and reliable automation for both group and personal chats.
+**QUEEN AYESHA** is a modern WhatsApp multi-device bot built with **Node.js**, **Baileys**, and **Express**. Designed for simplicity, extensibility, and reliable automation for both group and personal chats.
 
 > Please use responsibly and for educational purposes only.
 
@@ -41,7 +41,7 @@ Generate your Session ID to connect your WhatsApp account:
 
 ## Deploy
 
-Deploy QUEEN RIAM with one click on any supported platform:
+Deploy QUEEN AYESHA with one click on any supported platform:
 
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Dev-Kango/Queen-Riam"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
