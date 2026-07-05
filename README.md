@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Dev-Kango"><img src="https://img.shields.io/badge/GitHub-DevKango-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://wa.me/233509977126"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/923429010160"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
